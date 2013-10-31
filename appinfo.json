@@ -1,0 +1,10 @@
+{
+    "title": "Terminal",
+    "id": "org.webosports.app.terminal",
+    "version": "0.1.0",
+    "vendor": "webOS ports",
+    "vendor_url": "http://github.com/webOS-ports/org.webosports.app.terminal",
+    "type": "qml",
+    "main": "bin/terminal",
+    "icon": "icon.png"
+}
